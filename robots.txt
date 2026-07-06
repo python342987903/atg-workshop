@@ -1,0 +1,8 @@
+# robots.txt for 六安阿堂哥网络工作室
+# https://2tang.icu
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://2tang.icu/sitemap.xml
